@@ -7,35 +7,35 @@
 ## Business Chosen
 
 **Iris Café**
-Local café — Bangalore, India
+Local Café — Bangalore, India
 
-Specialty: Premium coffee, cozy workspace environment, delicious desserts, and relaxing ambiance.
+Specialty: Premium coffee, desserts, comfortable workspaces, and a relaxing atmosphere.
 
-Status: Active local café brand targeting students, professionals, freelancers, and coffee enthusiasts.
+Status: Active local business serving students, freelancers, professionals, and coffee lovers.
 
 ---
 
 ## What Was Built
 
-A complete AI-generated UGC Ad Content Pack created using structured prompts:
+A complete AI-generated UGC Ad Content Pack created using structured prompts.
 
-| Element              | Details                                           |
-| -------------------- | ------------------------------------------------- |
-| Hooks                | 10 scroll-stopping hooks                          |
-| Ad Scripts           | 3 complete UGC scripts (Problem → Solution → CTA) |
-| Platform Adaptations | Instagram Reels / YouTube Shorts / TikTok         |
-| Captions             | 3 platform-specific captions with hashtags        |
-| CTAs                 | 5 conversion-focused calls to action              |
+| Element | Details |
+|----------|----------|
+| Hooks | 10 scroll-stopping hooks |
+| Ad Scripts | 3 complete UGC ad scripts |
+| Platform Adaptations | Instagram Reels, YouTube Shorts, TikTok |
+| Captions | Platform-specific captions with hashtags |
+| CTAs | Conversion-focused calls to action |
 
 ---
 
 ## Target Audiences
 
-| Script   | Target                                    |
-| -------- | ----------------------------------------- |
-| Script 1 | Students looking for study-friendly cafés |
-| Script 2 | Freelancers and remote workers            |
-| Script 3 | Coffee lovers and weekend visitors        |
+| Script | Target |
+|----------|----------|
+| Script 1 | Students |
+| Script 2 | Freelancers & Remote Workers |
+| Script 3 | Coffee Lovers & Weekend Visitors |
 
 ---
 
@@ -44,22 +44,16 @@ A complete AI-generated UGC Ad Content Pack created using structured prompts:
 ```text
 FUTURE_PE_02/
 ├── README.md
+├── assets/
+│   └── logo.jpeg
 ├── prompts/
-│   ├── master_prompt.md
-│   ├── hooks_prompt.md
-│   ├── ugc_script_prompt.md
-│   └── platform_prompt.md
+│   ├── prompt_01_hooks.md
+│   ├── prompt_02_scripts.md
+│   └── prompt_03_platform_captions.md
 ├── outputs/
-│   ├── hooks.md
-│   ├── instagram_reel_ads.md
-│   ├── youtube_shorts_ads.md
-│   ├── captions.md
-│   └── cta_examples.md
-└── assets/
-    ├── cafe-image-1.jpg
-    ├── cafe-image-2.jpg
-    ├── prompt-screenshot.png
-    └── generated-output-screenshot.png
+│   ├── output_01_hooks.md
+│   ├── output_02_scripts.md
+│   └── output_03_platform_captions.md
 ```
 
 ---
@@ -68,55 +62,76 @@ FUTURE_PE_02/
 
 ### Prompt 1 — Hooks
 
-The hook-generation prompt focuses on curiosity, surprise, and relatable customer experiences. Restricting hooks to short, conversational openings helps create content that feels native to Instagram Reels and YouTube Shorts rather than traditional advertisements.
+The hook prompt is designed to generate short, attention-grabbing opening lines that stop users from scrolling. The focus is on curiosity, surprise, and relatable customer experiences while maintaining an authentic UGC tone.
 
-### Prompt 2 — UGC Ad Scripts
+### Prompt 2 — Ad Scripts
 
-The scripts follow the proven Problem → Solution → Experience → CTA framework commonly used in high-performing UGC campaigns. The prompt instructs the AI to write from a first-person perspective to create authentic customer-style storytelling.
+The script generation prompt follows the Problem → Solution → Experience → CTA framework. This structure mirrors real-world performance marketing campaigns and creates natural customer-style storytelling.
 
-### Prompt 3 — Platform Adaptation
+### Prompt 3 — Platform Captions
 
-Each platform requires a different content style. The prompt adapts tone, pacing, and calls-to-action for Instagram Reels, YouTube Shorts, and TikTok, ensuring the content matches platform-specific audience behavior and engagement patterns.
+The caption prompt adapts content for different social media platforms. Each caption is optimized with platform-specific tone, engagement style, and hashtags to improve reach and conversions.
 
 ---
 
 ## Key Features Demonstrated
 
-* Authentic UGC-style content generation
-* Multiple hooks for the same business
-* Problem → Solution → CTA framework
-* Platform-specific content adaptation
-* Conversion-focused messaging
-* Reusable prompt system for future brands
-* AI-assisted content marketing workflow
+- Authentic UGC-style content
+- Multiple hooks for the same business
+- Problem → Solution → CTA structure
+- Platform-specific adaptation
+- Conversion-focused messaging
+- Reusable AI prompt framework
 
 ---
 
 ## Tools Used
 
-* ChatGPT — Prompt engineering and content generation
-* Claude — Content refinement and alternative outputs
-* Google Gemini — Cross-validation and ideation
-* GitHub — Documentation and project delivery
+- ChatGPT
+- Claude
+- Google Gemini
+- GitHub
 
 ---
 
 ## Brand Identity
 
-| Element         | Value                                         |
-| --------------- | --------------------------------------------- |
-| Primary Color   | Coffee Brown #6F4E37                          |
-| Secondary Color | Cream #F5E6CA                                 |
-| Logo Style      | Minimal modern café branding                  |
-| Brand Voice     | Warm, welcoming, authentic, community-focused |
+| Element | Value |
+|----------|----------|
+| Primary Color | Coffee Brown (#6F4E37) |
+| Secondary Color | Cream (#F5E6CA) |
+| Brand Voice | Warm, welcoming, authentic |
+| Target Market | Students, professionals, coffee enthusiasts |
+
+---
+
+## Files Included
+
+### prompts/
+
+- prompt_01_hooks.md
+- prompt_02_scripts.md
+- prompt_03_platform_captions.md
+
+### outputs/
+
+- output_01_hooks.md
+- output_02_scripts.md
+- output_03_platform_captions.md
+
+### assets/
+
+- image1.jpg
+- image2.jpg
+- image3.jpg
 
 ---
 
 ## Outcome
 
-This project demonstrates how AI-powered prompt engineering can generate high-converting UGC advertising content for local businesses. The generated outputs are designed to be immediately usable for Instagram Reels, YouTube Shorts, TikTok videos, and paid social advertising campaigns.
+This project demonstrates how Prompt Engineering can be used to generate realistic, high-converting UGC advertising content for local businesses. The generated content can be directly adapted into Instagram Reels, YouTube Shorts, TikTok videos, and social media advertising campaigns.
 
 ---
 
-*Future Interns — Prompt Engineering Internship | Repository: FUTURE_PE_02*
+*Future Interns — Prompt Engineering Internship | Task 2 — AI Content Marketing using UGC Ads*
 
