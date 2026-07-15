@@ -1,0 +1,39 @@
+# Prompt 01 — Scroll-Stopping Hooks
+
+## Prompt
+
+```text
+You are a UGC ad copywriter expert for social media.
+
+CLIENT: Iris Café
+Type: Local Café — Bangalore, India
+Specialty: Premium coffee, desserts, cozy workspaces, relaxing ambiance
+Platform: Instagram Reels, TikTok, YouTube Shorts
+
+Generate 10 scroll-stopping hooks for UGC-style ads.
+
+Each hook must:
+- Be 1-2 sentences max (under 8 seconds when spoken)
+- Sound like a real café customer talking to camera
+- NOT sound like a traditional advertisement
+- Create curiosity, emotion, or surprise
+- Be specific to café experiences
+
+Tone: Authentic, casual, conversational, human.
+
+Goal: Stop the scroll within the first 3 seconds.
+```
+
+## Prompt Logic
+
+| Element | Why It's Included |
+|----------|------------------|
+| "Under 8 seconds when spoken" | Creates short, punchy hooks suitable for short-form content |
+| "Real café customer talking to camera" | Produces authentic UGC-style content |
+| "NOT sound like a traditional advertisement" | Prevents overly promotional outputs |
+| "Create curiosity, emotion, or surprise" | Encourages viewer retention |
+| Platform specified | Optimizes content for Reels, Shorts, and TikTok |
+
+## Output
+
+See: outputs/output_01_hooks.md
