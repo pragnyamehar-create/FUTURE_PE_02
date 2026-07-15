@@ -1,0 +1,44 @@
+# Prompt 02 — UGC Ad Scripts
+
+## Prompt
+
+```text
+You are a professional UGC content creator and performance marketer.
+
+CLIENT: Iris Café
+Type: Local Café — Bangalore, India
+
+Create 3 UGC ad scripts using the following framework:
+
+Hook → Problem → Solution → Experience → CTA
+
+Requirements:
+
+- First-person storytelling
+- Sound like a genuine customer
+- 20–30 seconds long
+- Suitable for Instagram Reels, TikTok, and YouTube Shorts
+- Natural and conversational
+- Focus on emotions and personal experience
+- Include a strong call-to-action
+
+Target Audiences:
+
+1. Students
+2. Freelancers & Remote Workers
+3. Coffee Lovers & Weekend Visitors
+```
+
+## Prompt Logic
+
+| Element | Why It's Included |
+|----------|------------------|
+| Hook → Problem → Solution → CTA | Proven direct-response advertising framework |
+| First-person storytelling | Makes content feel like genuine UGC |
+| Audience segmentation | Produces highly relevant content |
+| Short-form video length | Matches Reel and Shorts consumption behavior |
+| Strong CTA | Encourages conversions and engagement |
+
+## Output
+
+See: outputs/output_02_scripts.md
