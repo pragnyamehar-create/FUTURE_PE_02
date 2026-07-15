@@ -1,0 +1,45 @@
+# Prompt 03 — Platform Captions & CTAs
+
+## Prompt
+
+```text
+You are a social media content strategist.
+
+CLIENT: Iris Café
+Type: Local Café — Bangalore, India
+
+Generate platform-specific captions for:
+
+- Instagram Reels
+- YouTube Shorts
+- TikTok
+
+Requirements:
+
+- Adapt tone for each platform
+- Include emojis where appropriate
+- Include relevant hashtags
+- Encourage engagement
+- Sound authentic and community-focused
+
+Also generate:
+
+- 5 conversion-focused CTA examples
+
+Goal:
+Increase engagement, shares, saves, profile visits, and café visits.
+```
+
+## Prompt Logic
+
+| Element | Why It's Included |
+|----------|------------------|
+| Platform-specific captions | Different platforms require different communication styles |
+| Hashtags included | Improves discoverability |
+| Engagement-focused language | Encourages interaction and reach |
+| Conversion-focused CTAs | Supports marketing objectives |
+| Community-focused tone | Aligns with local café branding |
+
+## Output
+
+See: outputs/output_03_platform_captions.md
